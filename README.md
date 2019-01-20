@@ -6,5 +6,6 @@ I am a serial tech entrepreneur with MSc in Business Administration. While I hav
 
 Sincerely,
 
-*Mikko Alasaarela*
+**Mikko Alasaarela**
+
 Founder, Inbot
