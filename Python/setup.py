@@ -12,11 +12,11 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'mypackage'
-DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/me/myproject'
-EMAIL = 'me@example.com'
-AUTHOR = 'Awesome Soul'
+NAME = 'mikkoai'
+DESCRIPTION = 'Mikkos AI experiments.'
+URL = 'https://github.com/alasaarela/mikkoai'
+EMAIL = 'mikko@inbot.io'
+AUTHOR = 'Mikko Alasaarela'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = None
 
